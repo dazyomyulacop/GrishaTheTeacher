@@ -11,9 +11,12 @@ namespace Grisha_1
 			int result = 0;
 			int operation = 0;
 
+			// I'm tired of leaning Fork
+			Console.WriteLine("Fork's interface is uncomfortable. Maybe I'll change my mind later.");
 
 			// Time to say that Grisha is completly lox
 			Console.WriteLine("You are lox, Grisha!");
+
 			// Greatings
 			Console.WriteLine("Welcome Grisha!");
 
