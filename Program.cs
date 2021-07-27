@@ -11,6 +11,9 @@ namespace Grisha_1
 			int result = 0;
 			int operation = 0;
 
+
+			// Time to say that Grisha is completly lox
+			Console.WriteLine("You are lox, Grisha!");
 			// Greatings
 			Console.WriteLine("Welcome Grisha!");
 
