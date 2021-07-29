@@ -14,6 +14,7 @@ namespace Grisha_1
 
 			// Greatings
 			Console.WriteLine("Welcome Grisha! ");
+			Console.WriteLine("Welcome Ruslan! ");
 
 			// Description
 			Console.WriteLine("This program makes adding, " +
