@@ -1,1 +1,15 @@
+*.rbc
+capybara-*.html
+.rspec
+/log
+/tmp
+/db/*.sqlite3
+/public/system
+/coverage/
+/spec/tmp
+**.orig
+rerun.txt
+pickle-email-*.html
 
+/Grisha_1/Grisha_1/bin
+/Grisha_1/Grisha_1/obj
