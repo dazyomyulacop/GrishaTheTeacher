@@ -1,0 +1,16 @@
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\bin\Debug\net5.0\Grisha_1.exe
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\bin\Debug\net5.0\Grisha_1.deps.json
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\bin\Debug\net5.0\Grisha_1.runtimeconfig.json
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\bin\Debug\net5.0\Grisha_1.runtimeconfig.dev.json
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\bin\Debug\net5.0\Grisha_1.dll
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\bin\Debug\net5.0\ref\Grisha_1.dll
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\bin\Debug\net5.0\Grisha_1.pdb
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\obj\Debug\net5.0\Grisha_1.csproj.AssemblyReference.cache
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\obj\Debug\net5.0\Grisha_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\obj\Debug\net5.0\Grisha_1.AssemblyInfoInputs.cache
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\obj\Debug\net5.0\Grisha_1.AssemblyInfo.cs
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\obj\Debug\net5.0\Grisha_1.csproj.CoreCompileInputs.cache
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\obj\Debug\net5.0\Grisha_1.dll
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\obj\Debug\net5.0\ref\Grisha_1.dll
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\obj\Debug\net5.0\Grisha_1.pdb
+C:\Users\4ymad\source\repos\Grisha_1\Grisha_1\obj\Debug\net5.0\Grisha_1.genruntimeconfig.cache
