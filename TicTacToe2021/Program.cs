@@ -33,6 +33,8 @@ namespace TicTacToe2021
 
             GameResults writing = new GameResults();
             writing.StreamResults();
+
+            Console.WriteLine();
         }
     }
 }

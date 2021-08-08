@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TicTacToe2021
 {
-    public struct Salutation
+    public class Salutation
     {
         public void Greatings()
         {
