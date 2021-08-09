@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TicTacToe2021
 {
@@ -17,6 +18,10 @@ namespace TicTacToe2021
             string s = " ";
             bool flag = true;
             player = (turn % 2) + 1;
+
+            //int wplayer;
+            //string writePath = @"Results.txt";
+
             Salutation Welcoming2 = new Salutation();
 
             do
@@ -59,8 +64,18 @@ namespace TicTacToe2021
 
             GameField Filler = new GameField();
             Filler.GameFieldCreator(Field);
+
+            //GameResults wp = new GameResults();
+
             if (Game)
+            {
                 Console.WriteLine("Победил игрок " + player);
+                //using (StreamWriter sw = new StreamWriter(writePath))
+                //{
+                //    sw.WriteLine("Победил игрок " + player);
+                //}
+                //wp.StreamResults("ПРОВЕРКАПобедил игрок " + player);
+            }
             else if (turn == 8)
             {
                 Game = true;
